@@ -1,172 +1,14 @@
-Skip to content
-jjasnek-ops
-awesome-youtube-tools
-Type / to search
-Repository navigation
-Code
-Pull requests
-Actions
-Projects
-Security and quality
-Insights
-Settings
-Files
-main
-t
-T
-README.md
-Breadcrumbs
-awesome-youtube-tools
-/README.md
-Latest commit
-Eric-meiyan
-🔗 Add more free tools section
-6128b63
- · 
-History
-History
-File metadata and controls
-Preview
-Code
-Blame
-119 lines (84 loc) · 5.68 KB
-Raw
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
-23
-24
-25
-26
-27
-28
-29
-30
-31
-32
-33
-34
-35
-36
-37
-38
-39
-40
-41
-42
-43
-44
-45
-46
-47
-48
-49
-50
-51
-52
-53
-54
-55
-56
-57
-58
-59
-60
-61
-62
-63
-64
-65
-66
-67
-68
-69
-70
-71
-72
-73
-74
-75
-76
-77
-78
-79
-80
-81
-82
-83
-84
-85
-86
-87
-88
-89
-90
-91
-92
-93
-94
-95
-96
-97
-98
-99
-100
-101
-102
-103
-104
-105
-106
-107
-108
-109
-110
-111
-112
-113
-114
-115
-116
-117
-118
-119
 # 🎬 Awesome YouTube Tools
-
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-
 A curated list of awesome tools for working with YouTube videos — transcription, summarization, download, analytics, and content creation.
-
 
 **Contributions welcome!** Please read the [contribution guidelines](#contributing) first.
 
-
 ---
 
-
 ## Contents
-
 
 - [Transcription & Subtitles](#transcription--subtitles)
 - [AI Summarization](#ai-summarization)
@@ -176,15 +18,11 @@ A curated list of awesome tools for working with YouTube videos — transcriptio
 - [Browser Extensions](#browser-extensions)
 - [APIs & Libraries](#apis--libraries)
 
-
 ---
-
 
 ## Transcription & Subtitles
 
-
 Tools for extracting, generating, and downloading transcripts and subtitles from YouTube videos.
-
 
 | Tool | Description | Free? | Open Source? |
 |------|-------------|-------|--------------|
@@ -197,12 +35,9 @@ Tools for extracting, generating, and downloading transcripts and subtitles from
 | [TubeTranscript](https://tubetranscript.com/en) | Simple YouTube video transcription tool with multi-language support. | ✅ Free | — |
 | [Kome](https://kome.ai/tools/youtube-transcript-generator) | Fast YouTube transcript generator as part of a larger AI toolkit. | ✅ Free | — |
 
-
 ## AI Summarization
 
-
 Tools that use AI to summarize YouTube video content.
-
 
 | Tool | Description | Free? |
 |------|-------------|-------|
@@ -212,18 +47,14 @@ Tools that use AI to summarize YouTube video content.
 | [Descript](https://www.descript.com) | All-in-one video editor with transcription and AI features. | Freemium |
 | [Eightify](https://eightify.app) | Chrome extension for instant YouTube video summaries. | Freemium |
 
-
 ## Download & Convert
-
 
 | Tool | Description | Free? | Open Source? |
 |------|-------------|-------|--------------|
 | [yt-dlp](https://github.com/yt-dlp/yt-dlp) | Feature-rich command-line audio/video downloader. Fork of youtube-dl. | ✅ Free | ✅ |
 | [Cobalt](https://cobalt.tools) | Simple, ad-free media downloader for YouTube and other platforms. | ✅ Free | ✅ |
 
-
 ## Analytics & SEO
-
 
 | Tool | Description | Free? |
 |------|-------------|-------|
@@ -231,9 +62,7 @@ Tools that use AI to summarize YouTube video content.
 | [vidIQ](https://vidiq.com) | YouTube audience development and analytics. | Freemium |
 | [Social Blade](https://socialblade.com) | YouTube channel statistics and analytics. | ✅ Free |
 
-
 ## Content Creation
-
 
 | Tool | Description | Free? |
 |------|-------------|-------|
@@ -242,9 +71,7 @@ Tools that use AI to summarize YouTube video content.
 | [Kapwing](https://www.kapwing.com) | Online video editor with subtitle and transcript tools. | Freemium |
 | [Thumbnail Tester](https://feedthumbnail.com/) | Preview YouTube thumbnails in desktop and phone feed layouts, compare light and dark modes, and save a PNG. | Free |
 
-
 ## Browser Extensions
-
 
 | Extension | Browser | Description |
 |-----------|---------|-------------|
@@ -252,9 +79,7 @@ Tools that use AI to summarize YouTube video content.
 | [Glasp](https://glasp.co) | Chrome | YouTube transcript highlighter and note-taking. |
 | [Eightify](https://eightify.app) | Chrome | Instant AI summaries of YouTube videos. |
 
-
 ## APIs & Libraries
-
 
 | Library | Language | Description |
 |---------|----------|-------------|
@@ -262,21 +87,16 @@ Tools that use AI to summarize YouTube video content.
 | [youtubei.js](https://github.com/LuanRT/YouTube.js) | JavaScript | Full-featured YouTube API client. |
 | [Supadata](https://supadata.ai/youtube-transcript-api) | REST API | Commercial API for YouTube transcripts. |
 
-
 ---
-
 
 ## Contributing
 
-
 Contributions are welcome! Please:
-
 
 1. Fork this repository
 2. Add your tool in the appropriate category
 3. Use the format: `[Tool Name](URL) | Description | Free?`
 4. Submit a Pull Request
-
 
 Please ensure your PR:
 - Adds only one tool per PR
@@ -284,25 +104,17 @@ Please ensure your PR:
 - Includes a brief, accurate description
 - Links to the official website
 
-
 ---
-
 
 ## License
 
-
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
 
 This list is released under CC0. You can copy, modify, and distribute this work, even for commercial purposes, all without asking permission.
 
-
 ---
-
 
 ## More Awesome Free Tools
 
-
 - 🧠 [IQ Game Online](https://iqgame.online) — Free online brain training games and IQ tests
 - 🍗 [Party Food Calculator](https://partyfoodcalc.com) — Calculate how much food you need for any party
- 
